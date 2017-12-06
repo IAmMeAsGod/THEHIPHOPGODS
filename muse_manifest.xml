@@ -1,35 +1,36 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512516764134">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512519568226">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="269475799" ref="video:index:home"/>
-    <file name="video.css" crc="298930353" ref="video"/>
-    <file name="index.css" crc="298930353" ref="index"/>
-    <file name="home.css" crc="388291840" ref="home"/>
+    <file name="master_a-master.css" crc="408240852" ref="video:index:music"/>
+    <file name="video.css" crc="150476884" ref="video"/>
+    <file name="index.css" crc="347548706" ref="index"/>
+    <file name="music.css" crc="150476884" ref="music"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:index:video"/>
-    <file name="museutils.js" crc="3803043152" ref="home:index:video"/>
-    <file name="whatinput.js" crc="86476730" ref="home:index:video"/>
-    <file name="museconfig.js" crc="4153641093" ref="home:index:video"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="home:index:video"/>
-    <file name="jquery.watch.js" crc="99325471" ref="home:index:video"/>
-    <file name="webpro.js" crc="242022427" ref="home:index:video"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="home:index:video"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="home:index:video"/>
-    <file name="touchswipe.js" crc="4066113679" ref="home:index:video"/>
-    <file name="html5shiv.js" crc="4241844378" ref="home:index:video"/>
-    <file name="require.js" crc="4157109226" ref="home:index:video"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:music"/>
+    <file name="museutils.js" crc="3803043152" ref="index:video:music"/>
+    <file name="whatinput.js" crc="86476730" ref="index:video:music"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:video:music"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:video:music"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:video:music"/>
+    <file name="webpro.js" crc="242022427" ref="index:video:music"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:video:music"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:video:music"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:video:music"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:video:music"/>
+    <file name="require.js" crc="4157109226" ref="index:video:music"/>
   </folder>
   <folder name="images">
-    <file name="websitemasterlogo.jpg" crc="289582349" seo="true" ref="home:index:video">
+    <file name="websitemasterlogo.jpg" crc="289582349" seo="true" ref="index:video:music">
       <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="home:index:video"/>
-    <file name="loading.gif" crc="3815509949" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="index:video:music"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="home.html" crc="80400003" seo="true" mt="1512516626641" redirect="true"/>
-  <file name="index.html" crc="312140499" seo="true" mt="1512512350141" redirect="true"/>
-  <file name="video.html" crc="3875316970" seo="true" mt="1512512347391" redirect="true"/>
+  <file name="index.html" crc="527765879" seo="true" mt="1512517156752" redirect="true"/>
+  <file name="video.html" crc="4198305853" seo="true" mt="1512517156752" redirect="true"/>
+  <file name="music.html" crc="482804808" seo="true" mt="1512517156752" redirect="true"/>
 </manifest>
