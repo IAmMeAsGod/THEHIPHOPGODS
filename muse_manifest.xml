@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512526826932">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512578070261">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4234731169" ref="video:index:music"/>
-    <file name="video.css" crc="3807209583" ref="video"/>
-    <file name="index.css" crc="187542178" ref="index"/>
-    <file name="music.css" crc="3807209583" ref="music"/>
+    <file name="video.css" crc="3762073633" ref="video"/>
+    <file name="index.css" crc="306672872" ref="index"/>
+    <file name="music.css" crc="3939253665" ref="music"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:music"/>
@@ -23,7 +23,7 @@
       <caption webpage="music" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="112641482" seo="true" mt="1512526798132" redirect="true"/>
-  <file name="video.html" crc="156061123" seo="true" mt="1512525965364" redirect="true"/>
-  <file name="music.html" crc="3896166259" seo="true" mt="1512525965364" redirect="true"/>
+  <file name="index.html" crc="184378133" seo="true" mt="1512577450416" redirect="true"/>
+  <file name="video.html" crc="4280381820" seo="true" mt="1512577450416" redirect="true"/>
+  <file name="music.html" crc="194330007" seo="true" mt="1512578009829" redirect="true"/>
 </manifest>
