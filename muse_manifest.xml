@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512521606473">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512522863226">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="408240852" ref="video:index:music"/>
@@ -23,14 +23,14 @@
   <folder name="images">
     <file name="websitemasterlogo.jpg" crc="289582349" seo="true" ref="index:video:music">
       <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="music" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:video:music"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="284267979" seo="true" mt="1512521593788" redirect="true"/>
+  <file name="index.html" crc="299888081" seo="true" mt="1512522800115" redirect="true"/>
   <file name="video.html" crc="4198305853" seo="true" mt="1512521593788" redirect="true"/>
   <file name="music.html" crc="482804808" seo="true" mt="1512521593788" redirect="true"/>
 </manifest>
