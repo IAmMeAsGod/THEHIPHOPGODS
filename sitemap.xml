@@ -6,7 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3036.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -20,15 +20,6 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/music.html</loc>
-    <lastmod>2017-12-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://THEHIPHOPGODS.com/livestream.html</loc>
     <lastmod>2017-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
