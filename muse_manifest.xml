@@ -1,29 +1,37 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512582092054">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512611437718">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4234731169" ref="video:index:music"/>
-    <file name="video.css" crc="4039279117" ref="video"/>
-    <file name="index.css" crc="3992025419" ref="index"/>
-    <file name="music.css" crc="3857030192" ref="music"/>
+    <file name="master_a-master.css" crc="4234731169" ref="index"/>
+    <file name="video.css" crc="3814264175" ref="video"/>
+    <file name="index.css" crc="358806468" ref="index"/>
+    <file name="music.css" crc="4226468048" ref="music"/>
+    <file name="master_b-master.css" crc="382689407" ref="music:video:livestream"/>
+    <file name="livestream.css" crc="4002726284" ref="livestream"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:music"/>
-    <file name="museutils.js" crc="3803043152" ref="index:video:music"/>
-    <file name="whatinput.js" crc="86476730" ref="index:video:music"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:video:music"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:video:music"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:video:music"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:video:music"/>
-    <file name="require.js" crc="4157109226" ref="index:video:music"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:music:livestream"/>
+    <file name="museutils.js" crc="3803043152" ref="index:video:music:livestream"/>
+    <file name="whatinput.js" crc="86476730" ref="index:video:music:livestream"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:video:music:livestream"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:video:music:livestream"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:video:music:livestream"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:video:music:livestream"/>
+    <file name="require.js" crc="4157109226" ref="index:video:music:livestream"/>
   </folder>
   <folder name="images">
-    <file name="websitemasterlogo-crop-u3036.jpg" crc="4150242147" seo="true" ref="index:music:video">
+    <file name="websitemasterlogo-crop-u3036.jpg" crc="31571606" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
+    <file name="websitemasterlogo-crop-u3299.jpg" crc="4198399209" seo="true" ref="livestream:music:video">
+      <caption webpage="music" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="livestream" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="386421124" seo="true" mt="1512581985964" redirect="true"/>
-  <file name="video.html" crc="156080283" seo="true" mt="1512578410955" redirect="true"/>
-  <file name="music.html" crc="3842214331" seo="true" mt="1512581957696" redirect="true"/>
+  <file name="index.html" crc="352045263" seo="true" mt="1512608129436" redirect="true"/>
+  <file name="video.html" crc="3872475381" seo="true" mt="1512611324483" redirect="true"/>
+  <file name="music.html" crc="4249770429" seo="true" mt="1512611324483" redirect="true"/>
+  <file name="livestream.html" crc="4112999049" seo="true" mt="1512611324483" redirect="true"/>
 </manifest>
