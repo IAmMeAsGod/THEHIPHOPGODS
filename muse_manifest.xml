@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1513476323854">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1513477449942">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4205819834" ref="index:music:live-stream"/>
-    <file name="index.css" crc="4206943558" ref="index"/>
-    <file name="music.css" crc="421435540" ref="music"/>
-    <file name="live-stream.css" crc="4187403907" ref="live-stream"/>
+    <file name="master_a-master.css" crc="322363360" ref="index:music:live-stream"/>
+    <file name="index.css" crc="3881581142" ref="index"/>
+    <file name="music.css" crc="370186768" ref="music"/>
+    <file name="live-stream.css" crc="258279583" ref="live-stream"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:live-stream"/>
@@ -24,26 +24,25 @@
     <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="music:index:live-stream">
       <caption webpage="index" alt=""/>
       <caption webpage="live-stream" alt=""/>
-      <caption webpage="livestream" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="video" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="livestream" alt=""/>
     </file>
     <file name="favicon.ico" crc="502308340" ref="live-stream"/>
-    <file name="front.jpg" crc="172979886" seo="true" ref="index">
-      <caption webpage="home" alt=""/>
+    <file name="front.jpg" crc="3762019832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="front2.jpg" crc="3772805143" seo="true" ref="index">
       <caption webpage="home" alt=""/>
+    </file>
+    <file name="front2.jpg" crc="76176705" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="me.jpg" crc="4191627092" seo="true" ref="index">
       <caption webpage="home" alt=""/>
+    </file>
+    <file name="me.png" crc="3769153267" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="115456392" seo="true" mt="1513476284363" redirect="true"/>
-  <file name="music.html" crc="519856287" seo="true" mt="1513476284363" redirect="true"/>
-  <file name="live-stream.html" crc="4165199667" seo="true" mt="1513476284365" redirect="true"/>
+  <file name="index.html" crc="62089709" seo="true" mt="1513477430993" redirect="true"/>
+  <file name="music.html" crc="3865534993" seo="true" mt="1513476567525" redirect="true"/>
+  <file name="live-stream.html" crc="3897857078" seo="true" mt="1513476567525" redirect="true"/>
 </manifest>
