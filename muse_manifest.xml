@@ -1,29 +1,49 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1512617830468">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1513476323854">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="480632537" ref="index:music"/>
-    <file name="index.css" crc="364686836" ref="index"/>
-    <file name="music.css" crc="38454826" ref="music"/>
+    <file name="master_a-master.css" crc="4205819834" ref="index:music:live-stream"/>
+    <file name="index.css" crc="4206943558" ref="index"/>
+    <file name="music.css" crc="421435540" ref="music"/>
+    <file name="live-stream.css" crc="4187403907" ref="live-stream"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music"/>
-    <file name="museutils.js" crc="3803043152" ref="index:music"/>
-    <file name="whatinput.js" crc="86476730" ref="index:music"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:music"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:music"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:music"/>
-    <file name="require.js" crc="4157109226" ref="index:music"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:live-stream"/>
+    <file name="museutils.js" crc="3803043152" ref="index:music:live-stream"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music:live-stream"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:music:live-stream"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:live-stream"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:music:live-stream"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:music:live-stream"/>
+    <file name="require.js" crc="4157109226" ref="index:music:live-stream"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="music:index">
+    <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="music:index:live-stream">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="video" alt=""/>
+      <caption webpage="live-stream" alt=""/>
       <caption webpage="livestream" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="index"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
+    <file name="front.jpg" crc="172979886" seo="true" ref="index">
+      <caption webpage="home" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="front2.jpg" crc="3772805143" seo="true" ref="index">
+      <caption webpage="home" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="me.jpg" crc="4191627092" seo="true" ref="index">
+      <caption webpage="home" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="161402509" seo="true" mt="1512617086139" redirect="true"/>
-  <file name="music.html" crc="3818883074" seo="true" mt="1512617081261" redirect="true"/>
+  <file name="index.html" crc="115456392" seo="true" mt="1513476284363" redirect="true"/>
+  <file name="music.html" crc="519856287" seo="true" mt="1513476284363" redirect="true"/>
+  <file name="live-stream.html" crc="4165199667" seo="true" mt="1513476284365" redirect="true"/>
 </manifest>
