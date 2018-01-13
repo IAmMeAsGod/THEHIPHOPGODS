@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://THEHIPHOPGODS.com/index.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/music.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,7 +26,16 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/live-stream.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2018-01-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://THEHIPHOPGODS.com/video.html</loc>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
