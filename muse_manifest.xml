@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1515874204141">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1515875014641">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4043727679" ref="index:music:live-stream:video"/>
-    <file name="index.css" crc="475820027" ref="index"/>
+    <file name="index.css" crc="4095235930" ref="index"/>
     <file name="music.css" crc="98780760" ref="music"/>
     <file name="live-stream.css" crc="399689014" ref="live-stream"/>
     <file name="video.css" crc="4130004535" ref="video"/>
@@ -24,13 +24,13 @@
   <folder name="images">
     <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="music:index:live-stream:video">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="livestream" alt=""/>
       <caption webpage="live-stream" alt=""/>
-      <caption webpage="video" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
@@ -40,8 +40,8 @@
       <caption webpage="home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4257356998" seo="true" mt="1515874131168" redirect="true"/>
+  <file name="index.html" crc="487071493" seo="true" mt="1515874998553" redirect="true"/>
   <file name="music.html" crc="4035326801" seo="true" mt="1515874131168" redirect="true"/>
   <file name="live-stream.html" crc="142745204" seo="true" mt="1515874131168" redirect="true"/>
-  <file name="video.html" crc="4000707780" seo="true" mt="1515874188341" redirect="true"/>
+  <file name="video.html" crc="102934593" seo="true" mt="1515874992686" redirect="true"/>
 </manifest>
