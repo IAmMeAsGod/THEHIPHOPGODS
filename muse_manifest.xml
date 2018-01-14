@@ -1,50 +1,48 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1515877202128">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1515949230534">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4232884371" ref="index:music:live-stream:news"/>
-    <file name="index.css" crc="3862809256" ref="index"/>
-    <file name="music.css" crc="479520810" ref="music"/>
-    <file name="live-stream.css" crc="346668943" ref="live-stream"/>
-    <file name="news.css" crc="3972838250" ref="news"/>
+    <file name="master_a-master.css" crc="16987534" ref="index:live-stream:news:video"/>
+    <file name="index.css" crc="267898840" ref="index"/>
+    <file name="live-stream.css" crc="3907849982" ref="live-stream"/>
+    <file name="news.css" crc="3939921158" ref="news"/>
+    <file name="video.css" crc="3845820791" ref="video"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:live-stream:news"/>
-    <file name="museutils.js" crc="3803043152" ref="index:music:live-stream:news"/>
-    <file name="whatinput.js" crc="86476730" ref="index:music:live-stream:news"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:music:live-stream:news"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:live-stream:news"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:music:live-stream:news"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:music:live-stream:news"/>
-    <file name="require.js" crc="4157109226" ref="index:music:live-stream:news"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live-stream:news:video"/>
+    <file name="museutils.js" crc="3803043152" ref="index:live-stream:news:video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:live-stream:news:video"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:live-stream:news:video"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:live-stream:news:video"/>
+    <file name="require.js" crc="4157109226" ref="index:live-stream:news:video"/>
     <file name="webpro.js" crc="242022427" ref="news"/>
     <file name="musewpslideshow.js" crc="457073769" ref="news"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="news"/>
     <file name="touchswipe.js" crc="4066113679" ref="news"/>
   </folder>
   <folder name="images">
-    <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="music:index:live-stream:news">
-      <caption webpage="home" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="livestream" alt=""/>
-      <caption webpage="live-stream" alt=""/>
+    <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="index:live-stream:news:video">
       <caption webpage="video" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="livestream" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="live-stream" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="news">
       <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
     <file name="front2.jpg" crc="76176705" seo="true" ref="news">
       <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="354236202" seo="true" mt="1515877174294" redirect="true"/>
-  <file name="music.html" crc="4180738553" seo="true" mt="1515877174294" redirect="true"/>
-  <file name="live-stream.html" crc="4078864136" seo="true" mt="1515877174296" redirect="true"/>
-  <file name="news.html" crc="481019354" seo="true" mt="1515877174294" redirect="true"/>
+  <file name="index.html" crc="3984563537" seo="true" mt="1515949222300" redirect="true"/>
+  <file name="live-stream.html" crc="25227513" seo="true" mt="1515948827280" redirect="true"/>
+  <file name="news.html" crc="280848696" seo="true" mt="1515948827280" redirect="true"/>
+  <file name="video.html" crc="3783672190" seo="true" mt="1515948850633" redirect="true"/>
 </manifest>
