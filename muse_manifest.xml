@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1516069494993">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518548108115">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
-    <file name="index.css" crc="4276867006" ref="index"/>
+    <file name="index.css" crc="4123129303" ref="index"/>
     <file name="live-stream.css" crc="384615785" ref="live-stream"/>
     <file name="news.css" crc="3890658239" ref="news"/>
     <file name="video.css" crc="475294048" ref="video"/>
@@ -21,15 +21,15 @@
   </folder>
   <folder name="images">
     <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="index:live-stream:news:video">
-      <caption webpage="live-stream" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="livestream" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="live-stream" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="news">
       <caption webpage="index" alt=""/>
       <caption webpage="news" alt=""/>
@@ -47,16 +47,15 @@
     <file name="thumblargecdoutside12.jpg" crc="402943338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumblargecdoutside13.jpg" crc="4006735484" seo="true" ref="index">
+    <file name="thumblargecdoutside13.jpg" crc="4136506234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumblargecdoutside14.jpg" crc="4136506234" seo="true" ref="index">
+    <file name="thumblargecdoutside14.jpg" crc="407401645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5303-4.png" crc="19498023" ref="index"/>
-    <file name="u5309-4.png" crc="19498023" ref="index"/>
     <file name="u5315-4.png" crc="19498023" ref="index"/>
-    <file name="thumblargecdoutside15.jpg" crc="407401645" seo="true" ref="index">
+    <file name="thumblargecdoutside15.jpg" crc="449421280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5321-4.png" crc="19498023" ref="index"/>
@@ -64,14 +63,11 @@
     <file name="u5325-4.png" crc="491753416" ref="index"/>
     <file name="u5538-4.png" crc="513965443" ref="live-stream:index:news:video"/>
     <file name="u5539-4.png" crc="36391652" ref="live-stream:index:news:video"/>
-    <file name="thumblargecdoutside16.jpg" crc="449421280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thumblargecdoutside17.jpg" crc="4294945535" seo="true" ref="index">
+    <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3932198689" seo="true" mt="1516069485619" redirect="true"/>
+  <file name="index.html" crc="3836235763" seo="true" mt="1518548063018" redirect="true"/>
   <file name="live-stream.html" crc="3998929600" seo="true" mt="1516069443549" redirect="true"/>
   <file name="news.html" crc="4198069439" seo="true" mt="1516069443549" redirect="true"/>
   <file name="video.html" crc="145269056" seo="true" mt="1516069443549" redirect="true"/>
