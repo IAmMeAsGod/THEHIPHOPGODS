@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518713931261">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518714601396">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
     <file name="index.css" crc="4227436028" ref="index"/>
     <file name="live-stream.css" crc="384615785" ref="live-stream"/>
-    <file name="news.css" crc="3890658239" ref="news"/>
+    <file name="news.css" crc="3790710730" ref="news"/>
     <file name="video.css" crc="475294048" ref="video"/>
   </folder>
   <folder name="scripts">
@@ -21,29 +21,29 @@
   </folder>
   <folder name="images">
     <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="index:live-stream:news:video">
-      <caption webpage="music" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="live-stream" alt=""/>
-      <caption webpage="livestream" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="livestream" alt=""/>
+      <caption webpage="live-stream" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="news">
       <caption webpage="index" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="news" alt=""/>
     </file>
     <file name="front2.jpg" crc="76176705" seo="true" ref="news">
       <caption webpage="index" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="home" alt=""/>
+      <caption webpage="news" alt=""/>
     </file>
     <file name="thumblargecdoutside1.jpg" crc="4143843053" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5295-4.png" crc="3887067705" ref="index"/>
+    <file name="u5295-4.png" crc="350597973" ref="index"/>
     <file name="thumblargecdoutside12.jpg" crc="402943338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -53,22 +53,22 @@
     <file name="thumblargecdoutside14.jpg" crc="407401645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5303-4.png" crc="19498023" ref="index"/>
-    <file name="u5315-4.png" crc="19498023" ref="index"/>
+    <file name="u5303-4.png" crc="4012847518" ref="index"/>
+    <file name="u5315-4.png" crc="4012847518" ref="index"/>
     <file name="thumblargecdoutside15.jpg" crc="449421280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5321-4.png" crc="19498023" ref="index"/>
-    <file name="u5323-4.png" crc="491753416" ref="index"/>
-    <file name="u5325-4.png" crc="491753416" ref="index"/>
-    <file name="u5538-4.png" crc="513965443" ref="live-stream:index:news:video"/>
-    <file name="u5539-4.png" crc="36391652" ref="live-stream:index:news:video"/>
+    <file name="u5321-4.png" crc="4012847518" ref="index"/>
+    <file name="u5323-4.png" crc="184947626" ref="index"/>
+    <file name="u5325-4.png" crc="184947626" ref="index"/>
+    <file name="u5538-4.png" crc="346663344" ref="live-stream:index:news:video"/>
+    <file name="u5539-4.png" crc="298498736" ref="live-stream:index:news:video"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4035150268" seo="true" mt="1518713920854" redirect="true"/>
-  <file name="live-stream.html" crc="3998929600" seo="true" mt="1516069443549" redirect="true"/>
-  <file name="news.html" crc="4198069439" seo="true" mt="1516069443549" redirect="true"/>
-  <file name="video.html" crc="145269056" seo="true" mt="1516069443549" redirect="true"/>
+  <file name="index.html" crc="4279223087" seo="true" mt="1518714590690" redirect="true"/>
+  <file name="live-stream.html" crc="4225990051" seo="true" mt="1518714350401" redirect="true"/>
+  <file name="news.html" crc="4066684324" seo="true" mt="1518714350401" redirect="true"/>
+  <file name="video.html" crc="421372069" seo="true" mt="1518714350401" redirect="true"/>
 </manifest>
