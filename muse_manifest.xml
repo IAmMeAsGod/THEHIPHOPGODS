@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518716234189">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518716381980">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
@@ -23,13 +23,13 @@
     <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="index:live-stream:news:video">
       <caption webpage="music" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="live-stream" alt=""/>
+      <caption webpage="livestream" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="livestream" alt=""/>
+      <caption webpage="live-stream" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="news">
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
@@ -61,14 +61,14 @@
     <file name="u5321-4.png" crc="4012847518" ref="index"/>
     <file name="u5323-4.png" crc="184947626" ref="index"/>
     <file name="u5325-4.png" crc="184947626" ref="index"/>
-    <file name="u5538-4.png" crc="346663344" ref="live-stream:index:news:video"/>
-    <file name="u5539-4.png" crc="298498736" ref="live-stream:index:news:video"/>
+    <file name="u5538-4.png" crc="198522613" ref="live-stream:index:news:video"/>
+    <file name="u5539-4.png" crc="506161286" ref="live-stream:index:news:video"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="53387234" seo="true" mt="1518716190624" redirect="true"/>
-  <file name="live-stream.html" crc="4225990051" seo="true" mt="1518714350401" redirect="true"/>
-  <file name="news.html" crc="4066684324" seo="true" mt="1518714350401" redirect="true"/>
-  <file name="video.html" crc="421372069" seo="true" mt="1518714350401" redirect="true"/>
+  <file name="index.html" crc="3959583287" seo="true" mt="1518716374232" redirect="true"/>
+  <file name="live-stream.html" crc="3841778581" seo="true" mt="1518716374232" redirect="true"/>
+  <file name="news.html" crc="4262066884" seo="true" mt="1518716374232" redirect="true"/>
+  <file name="video.html" crc="258712657" seo="true" mt="1518716374232" redirect="true"/>
 </manifest>
