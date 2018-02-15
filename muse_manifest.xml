@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518716381980">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1518716555050">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
-    <file name="index.css" crc="203426055" ref="index"/>
+    <file name="index.css" crc="3876717618" ref="index"/>
     <file name="live-stream.css" crc="384615785" ref="live-stream"/>
     <file name="news.css" crc="3790710730" ref="news"/>
     <file name="video.css" crc="475294048" ref="video"/>
@@ -21,15 +21,15 @@
   </folder>
   <folder name="images">
     <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="index:live-stream:news:video">
-      <caption webpage="music" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="livestream" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="video" alt=""/>
       <caption webpage="live-stream" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="livestream" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="news" alt=""/>
     </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="news">
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
@@ -67,7 +67,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3959583287" seo="true" mt="1518716374232" redirect="true"/>
+  <file name="index.html" crc="262392308" seo="true" mt="1518716532449" redirect="true"/>
   <file name="live-stream.html" crc="3841778581" seo="true" mt="1518716374232" redirect="true"/>
   <file name="news.html" crc="4262066884" seo="true" mt="1518716374232" redirect="true"/>
   <file name="video.html" crc="258712657" seo="true" mt="1518716374232" redirect="true"/>
