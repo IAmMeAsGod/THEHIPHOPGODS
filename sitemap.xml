@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -26,38 +23,41 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside16.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/live-stream.html</loc>
-    <lastmod>2018-02-15</lastmod>
+    <lastmod>2018-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/news.html</loc>
-    <lastmod>2018-02-15</lastmod>
+    <lastmod>2018-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/front.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/front2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/video.html</loc>
-    <lastmod>2018-02-15</lastmod>
+    <lastmod>2018-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogo-crop-u3299.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

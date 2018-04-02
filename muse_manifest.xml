@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522610014949">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522630164537">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
@@ -20,16 +20,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="news"/>
   </folder>
   <folder name="images">
-    <file name="websitemasterlogo-crop-u3299.jpg" crc="59370317" seo="true" ref="index:live-stream:news:video">
-      <caption webpage="news" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="live-stream" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="livestream" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
+    <file name="favicon.ico" crc="502308340" ref="live-stream"/>
     <file name="front.jpg" crc="3762019832" seo="true" ref="news">
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
@@ -43,7 +34,7 @@
     <file name="thumblargecdoutside1.jpg" crc="4143843053" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5295-4.png" crc="350597973" ref="index"/>
+    <file name="u5295-4.png" crc="193461994" ref="index"/>
     <file name="thumblargecdoutside12.jpg" crc="402943338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -53,22 +44,28 @@
     <file name="thumblargecdoutside14.jpg" crc="407401645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5303-4.png" crc="4012847518" ref="index"/>
-    <file name="u5315-4.png" crc="4012847518" ref="index"/>
+    <file name="u5303-4.png" crc="157864191" ref="index"/>
+    <file name="u5315-4.png" crc="157864191" ref="index"/>
     <file name="thumblargecdoutside15.jpg" crc="449421280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u5321-4.png" crc="4012847518" ref="index"/>
-    <file name="u5323-4.png" crc="184947626" ref="index"/>
-    <file name="u5325-4.png" crc="184947626" ref="index"/>
-    <file name="u5538-4.png" crc="198522613" ref="live-stream:index:news:video"/>
-    <file name="u5539-4.png" crc="506161286" ref="live-stream:index:news:video"/>
+    <file name="u5321-4.png" crc="157864191" ref="index"/>
+    <file name="u5323-4.png" crc="490417583" ref="index"/>
+    <file name="u5325-4.png" crc="490417583" ref="index"/>
+    <file name="u5538-4.png" crc="4088390616" ref="live-stream:index:news:video"/>
+    <file name="u5539-4.png" crc="4199556901" ref="live-stream:index:news:video"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="live-stream:index:news:video">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="live-stream" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3971927398" seo="true" mt="1522610000774" redirect="true"/>
-  <file name="live-stream.html" crc="3841778581" seo="true" mt="1518716374232" redirect="true"/>
-  <file name="news.html" crc="4262066884" seo="true" mt="1518716374232" redirect="true"/>
-  <file name="video.html" crc="258712657" seo="true" mt="1518716374232" redirect="true"/>
+  <file name="index.html" crc="4182708553" seo="true" mt="1522630158929" redirect="true"/>
+  <file name="live-stream.html" crc="431012166" seo="true" mt="1522630099160" redirect="true"/>
+  <file name="news.html" crc="15113858" seo="true" mt="1522630099160" redirect="true"/>
+  <file name="video.html" crc="429102782" seo="true" mt="1522630099160" redirect="true"/>
 </manifest>
