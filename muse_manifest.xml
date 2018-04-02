@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522693154763">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522702410409">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
-    <file name="index.css" crc="421734849" ref="index"/>
+    <file name="index.css" crc="4117299139" ref="index"/>
     <file name="live-stream.css" crc="420943265" ref="live-stream"/>
     <file name="news.css" crc="4140514397" ref="news"/>
     <file name="video.css" crc="4055897533" ref="video"/>
@@ -41,12 +41,12 @@
     <file name="thumblargecdoutside13.jpg" crc="4136506234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumblargecdoutside14.jpg" crc="407401645" seo="true" ref="index">
+    <file name="thumblargecdoutside14.jpg" crc="449421280" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5303-4.png" crc="157864191" ref="index"/>
     <file name="u5315-4.png" crc="157864191" ref="index"/>
-    <file name="thumblargecdoutside15.jpg" crc="449421280" seo="true" ref="index">
+    <file name="thumblargecdoutside15.jpg" crc="4294945535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5321-4.png" crc="157864191" ref="index"/>
@@ -54,7 +54,7 @@
     <file name="u5325-4.png" crc="490417583" ref="index"/>
     <file name="u5538-4.png" crc="117454916" ref="live-stream:index:news:video"/>
     <file name="u5539-4.png" crc="4267227871" ref="live-stream:index:news:video"/>
-    <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="index">
+    <file name="thumblargecdoutside16.jpg" crc="407401645" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="live-stream:index:news:video">
@@ -64,7 +64,7 @@
       <caption webpage="live-stream" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="449350437" seo="true" mt="1522693123347" redirect="true"/>
+  <file name="index.html" crc="4257565627" seo="true" mt="1522702402242" redirect="true"/>
   <file name="live-stream.html" crc="4084714037" seo="true" mt="1522692901422" redirect="true"/>
   <file name="news.html" crc="3940660973" seo="true" mt="1522692901422" redirect="true"/>
   <file name="video.html" crc="3791302102" seo="true" mt="1522692901422" redirect="true"/>
