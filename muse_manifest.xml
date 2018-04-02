@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522692073514">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522692586765">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
-    <file name="index.css" crc="67332399" ref="index"/>
+    <file name="index.css" crc="478551763" ref="index"/>
     <file name="live-stream.css" crc="384615785" ref="live-stream"/>
     <file name="news.css" crc="3790710730" ref="news"/>
     <file name="video.css" crc="475294048" ref="video"/>
@@ -64,7 +64,7 @@
       <caption webpage="live-stream" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="109075259" seo="true" mt="1522692067376" redirect="true"/>
+  <file name="index.html" crc="4012818813" seo="true" mt="1522692580552" redirect="true"/>
   <file name="live-stream.html" crc="431012166" seo="true" mt="1522630099160" redirect="true"/>
   <file name="news.html" crc="15113858" seo="true" mt="1522630099160" redirect="true"/>
   <file name="video.html" crc="429102782" seo="true" mt="1522630099160" redirect="true"/>
