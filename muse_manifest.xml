@@ -1,36 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522775663118">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522784728775">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3806693221" ref="index:live-stream:news:video"/>
+    <file name="master_a-master.css" crc="3806693221" ref="index"/>
     <file name="index.css" crc="4087094784" ref="index"/>
-    <file name="live-stream.css" crc="420943265" ref="live-stream"/>
-    <file name="news.css" crc="4140514397" ref="news"/>
-    <file name="video.css" crc="4055897533" ref="video"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live-stream:news:video"/>
-    <file name="museutils.js" crc="3803043152" ref="index:live-stream:news:video"/>
-    <file name="whatinput.js" crc="86476730" ref="index:live-stream:news:video"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:live-stream:news:video"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:live-stream:news:video"/>
-    <file name="require.js" crc="4157109226" ref="index:live-stream:news:video"/>
-    <file name="webpro.js" crc="242022427" ref="news"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="news"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="news"/>
-    <file name="touchswipe.js" crc="4066113679" ref="news"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="502308340" ref="live-stream:index"/>
-    <file name="front.jpg" crc="3762019832" seo="true" ref="news">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="news" alt=""/>
-    </file>
-    <file name="front2.jpg" crc="76176705" seo="true" ref="news">
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="news" alt=""/>
-    </file>
+    <file name="favicon.ico" crc="502308340" ref="index"/>
     <file name="thumblargecdoutside1.jpg" crc="4143843053" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -52,20 +35,17 @@
     <file name="u5321-4.png" crc="157864191" ref="index"/>
     <file name="u5323-4.png" crc="490417583" ref="index"/>
     <file name="u5325-4.png" crc="490417583" ref="index"/>
-    <file name="u5538-4.png" crc="117454916" ref="live-stream:index:news:video"/>
-    <file name="u5539-4.png" crc="4267227871" ref="live-stream:index:news:video"/>
+    <file name="u5538-4.png" crc="117454916" ref="index"/>
+    <file name="u5539-4.png" crc="4267227871" ref="index"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="live-stream:index:news:video">
+    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="live-stream" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4086476864" seo="true" mt="1522775609596" redirect="true"/>
-  <file name="live-stream.html" crc="4084714037" seo="true" mt="1522692901422" redirect="true"/>
-  <file name="news.html" crc="3940660973" seo="true" mt="1522692901422" redirect="true"/>
-  <file name="video.html" crc="3791302102" seo="true" mt="1522692901422" redirect="true"/>
+  <file name="index.html" crc="4086476864" seo="true" mt="1522784709641" redirect="true"/>
 </manifest>
