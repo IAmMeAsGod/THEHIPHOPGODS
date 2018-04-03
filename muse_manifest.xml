@@ -1,20 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522785911099">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522787500556">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3806693221" ref="index:music"/>
-    <file name="index.css" crc="3820145190" ref="index"/>
-    <file name="music.css" crc="3887487465" ref="music"/>
+    <file name="master_a-master.css" crc="61091848" ref="index:music:more"/>
+    <file name="index.css" crc="375972858" ref="index"/>
+    <file name="music.css" crc="4086104797" ref="music"/>
+    <file name="more.css" crc="49457535" ref="more"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music"/>
-    <file name="museutils.js" crc="3803043152" ref="index:music"/>
-    <file name="whatinput.js" crc="86476730" ref="index:music"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:music"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:music"/>
-    <file name="require.js" crc="4157109226" ref="index:music"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:more"/>
+    <file name="museutils.js" crc="3803043152" ref="index:music:more"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music:more"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:music:more"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:music:more"/>
+    <file name="require.js" crc="4157109226" ref="index:music:more"/>
+    <file name="webpro.js" crc="242022427" ref="more"/>
+    <file name="form_check.php" crc="147359589" ref="more"/>
+    <file name="form_throttle.php" crc="93986428" ref="more"/>
+    <file name="form_process.php" crc="3851993751" ref="more"/>
+    <file name="form-u6053.php" crc="159118662" ref="more"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="502308340" ref="index:music"/>
+    <file name="favicon.ico" crc="502308340" ref="index:more"/>
     <file name="thumblargecdoutside1.jpg" crc="4143843053" seo="true" ref="music">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
@@ -35,28 +41,30 @@
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="u5538-4.png" crc="4132960921" ref="index:music"/>
-    <file name="u5539-4.png" crc="3795962374" ref="index:music"/>
+    <file name="u5538-4.png" crc="43233702" ref="index:music:more"/>
+    <file name="u5539-4.png" crc="269011111" ref="index:music:more"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="music">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music">
+    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:more">
       <caption webpage="index" alt=""/>
+      <caption webpage="live-stream" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="live-stream" alt=""/>
+      <caption webpage="more" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="u5918-4.png" crc="515792270" ref="music"/>
-    <file name="u5919-4.png" crc="4210848157" ref="music"/>
-    <file name="u5790-4.png" crc="462603088" ref="music"/>
-    <file name="u5791-4.png" crc="4129164434" ref="music"/>
-    <file name="u5792-4.png" crc="269722889" ref="music"/>
-    <file name="u5793-4.png" crc="3777577663" ref="music"/>
-    <file name="u5794-4.png" crc="4133530189" ref="music"/>
-    <file name="u5795-4.png" crc="4008048307" ref="music"/>
+    <file name="u5790-4.png" crc="189363781" ref="music"/>
+    <file name="u5791-4.png" crc="4040107817" ref="music"/>
+    <file name="u5792-4.png" crc="4040107817" ref="music"/>
+    <file name="u5793-4.png" crc="4005457505" ref="music"/>
+    <file name="u5794-4.png" crc="360283355" ref="music"/>
+    <file name="u5795-4.png" crc="360283355" ref="music"/>
+    <file name="u5940-4.png" crc="303363237" ref="index:music:more"/>
+    <file name="u6144-4.png" crc="494445771" ref="more"/>
   </folder>
-  <file name="index.html" crc="88919813" seo="true" mt="1522785324586" redirect="true"/>
-  <file name="music.html" crc="520841794" seo="true" mt="1522785895688" redirect="true"/>
+  <file name="index.html" crc="502410483" seo="true" mt="1522786881992" redirect="true"/>
+  <file name="music.html" crc="4232776744" seo="true" mt="1522786881992" redirect="true"/>
+  <file name="more.html" crc="207336017" seo="true" mt="1522787495667" redirect="true"/>
 </manifest>
