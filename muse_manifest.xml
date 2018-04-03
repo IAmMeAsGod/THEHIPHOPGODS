@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522787500556">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522787568392">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="61091848" ref="index:music:more"/>
-    <file name="index.css" crc="375972858" ref="index"/>
-    <file name="music.css" crc="4086104797" ref="music"/>
-    <file name="more.css" crc="49457535" ref="more"/>
+    <file name="index.css" crc="3924029525" ref="index"/>
+    <file name="music.css" crc="4216373870" ref="music"/>
+    <file name="more.css" crc="41017371" ref="more"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:more"/>
@@ -20,7 +20,7 @@
     <file name="form-u6053.php" crc="159118662" ref="more"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="502308340" ref="index:more"/>
+    <file name="favicon.ico" crc="502308340" ref="index"/>
     <file name="thumblargecdoutside1.jpg" crc="4143843053" seo="true" ref="music">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
@@ -41,8 +41,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="u5538-4.png" crc="43233702" ref="index:music:more"/>
-    <file name="u5539-4.png" crc="269011111" ref="index:music:more"/>
+    <file name="u5538-4.png" crc="4132960921" ref="index:music:more"/>
+    <file name="u5539-4.png" crc="3795962374" ref="index:music:more"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="music">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
@@ -61,10 +61,10 @@
     <file name="u5793-4.png" crc="4005457505" ref="music"/>
     <file name="u5794-4.png" crc="360283355" ref="music"/>
     <file name="u5795-4.png" crc="360283355" ref="music"/>
-    <file name="u5940-4.png" crc="303363237" ref="index:music:more"/>
+    <file name="u5940-4.png" crc="3934871365" ref="index:music:more"/>
     <file name="u6144-4.png" crc="494445771" ref="more"/>
   </folder>
-  <file name="index.html" crc="502410483" seo="true" mt="1522786881992" redirect="true"/>
-  <file name="music.html" crc="4232776744" seo="true" mt="1522786881992" redirect="true"/>
-  <file name="more.html" crc="207336017" seo="true" mt="1522787495667" redirect="true"/>
+  <file name="index.html" crc="98203119" seo="true" mt="1522787563854" redirect="true"/>
+  <file name="music.html" crc="3860712014" seo="true" mt="1522787563854" redirect="true"/>
+  <file name="more.html" crc="136182126" seo="true" mt="1522787563854" redirect="true"/>
 </manifest>
