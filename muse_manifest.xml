@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522787990767">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522817873450">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="61091848" ref="index:music:more"/>
-    <file name="index.css" crc="3924029525" ref="index"/>
-    <file name="music.css" crc="3843361369" ref="music"/>
-    <file name="more.css" crc="3888650848" ref="more"/>
+    <file name="master_a-master.css" crc="121541116" ref="index:music:more"/>
+    <file name="index.css" crc="11844163" ref="index"/>
+    <file name="music.css" crc="3873195943" ref="music"/>
+    <file name="more.css" crc="4165941743" ref="more"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:more"/>
@@ -13,9 +13,11 @@
     <file name="museconfig.js" crc="4153641093" ref="index:music:more"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:music:more"/>
     <file name="require.js" crc="4157109226" ref="index:music:more"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:more"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:music:more"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="502308340" ref="index:music"/>
+    <file name="favicon.ico" crc="502308340" ref="index"/>
     <file name="thumblargecdoutside1.jpg" crc="4143843053" seo="true" ref="music">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
@@ -36,19 +38,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="u5538-4.png" crc="4132960921" ref="index:music:more"/>
-    <file name="u5539-4.png" crc="3795962374" ref="index:music:more"/>
     <file name="thumblargecdoutside16.jpg" crc="4294945535" seo="true" ref="music">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:more">
       <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="live-stream" alt=""/>
+      <caption webpage="more" alt=""/>
       <caption webpage="music" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="more" alt=""/>
-      <caption webpage="live-stream" alt=""/>
-      <caption webpage="news" alt=""/>
     </file>
     <file name="u5790-4.png" crc="193461994" ref="music"/>
     <file name="u5791-4.png" crc="157864191" ref="music"/>
@@ -56,9 +56,10 @@
     <file name="u5793-4.png" crc="88415941" ref="music"/>
     <file name="u5794-4.png" crc="490417583" ref="music"/>
     <file name="u5795-4.png" crc="490417583" ref="music"/>
-    <file name="u5940-4.png" crc="3934871365" ref="index:music:more"/>
+    <file name="u6595-5.png" crc="161563450" ref="music"/>
+    <file name="u6701-4.png" crc="4141878157" ref="music"/>
   </folder>
-  <file name="index.html" crc="98203119" seo="true" mt="1522787563854" redirect="true"/>
-  <file name="music.html" crc="308950216" seo="true" mt="1522787708140" redirect="true"/>
-  <file name="more.html" crc="381882878" seo="true" mt="1522787757865" redirect="true"/>
+  <file name="index.html" crc="4289428685" seo="true" mt="1522816766424" redirect="true"/>
+  <file name="music.html" crc="4141150836" seo="true" mt="1522817267414" redirect="true"/>
+  <file name="more.html" crc="4117287226" seo="true" mt="1522817863388" redirect="true"/>
 </manifest>
