@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522819081877">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522819346712">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="121541116" ref="index:music:more"/>
     <file name="index.css" crc="11844163" ref="index"/>
-    <file name="music.css" crc="3985504154" ref="music"/>
+    <file name="music.css" crc="3860036485" ref="music"/>
     <file name="more.css" crc="379971333" ref="more"/>
   </folder>
   <folder name="scripts">
@@ -56,10 +56,10 @@
     <file name="u5793-4.png" crc="88415941" ref="music"/>
     <file name="u5794-4.png" crc="490417583" ref="music"/>
     <file name="u5795-4.png" crc="490417583" ref="music"/>
-    <file name="u6701-6.png" crc="405190760" ref="music"/>
-    <file name="u7025-5.png" crc="4221276989" ref="music"/>
+    <file name="u6701-6.png" crc="3858364116" ref="music"/>
+    <file name="u7025-5.png" crc="113552073" ref="music"/>
   </folder>
   <file name="index.html" crc="4289428685" seo="true" mt="1522816766424" redirect="true"/>
-  <file name="music.html" crc="3866899410" seo="true" mt="1522819074413" redirect="true"/>
+  <file name="music.html" crc="272315434" seo="true" mt="1522819331761" redirect="true"/>
   <file name="more.html" crc="3914085999" seo="true" mt="1522818259017" redirect="true"/>
 </manifest>
