@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522857056709">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522858862242">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="121541116" ref="index:music:more"/>
@@ -44,11 +44,11 @@
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:more">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="live-stream" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="more" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="live-stream" alt=""/>
+      <caption webpage="more" alt=""/>
     </file>
     <file name="u5790-4.png" crc="182228641" ref="music"/>
     <file name="u5791-4.png" crc="276352289" ref="music"/>
@@ -58,7 +58,7 @@
     <file name="u5795-4.png" crc="266057910" ref="music"/>
     <file name="u6701-6.png" crc="4192225229" ref="music"/>
   </folder>
-  <file name="index.html" crc="3795609624" seo="true" mt="1522855228656" redirect="true"/>
+  <file name="index.html" crc="4172718104" seo="true" mt="1522858857501" redirect="true"/>
   <file name="music.html" crc="522844374" seo="true" mt="1522856899103" redirect="true"/>
   <file name="more.html" crc="4231171298" seo="true" mt="1522856487743" redirect="true"/>
 </manifest>
