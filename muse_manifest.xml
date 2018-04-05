@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522910373819">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522946414647">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="121541116" ref="index:music:more:extra"/>
-    <file name="index.css" crc="3797224705" ref="index"/>
-    <file name="music.css" crc="3800696696" ref="music"/>
-    <file name="more.css" crc="4103184317" ref="more"/>
-    <file name="extra.css" crc="3902540037" ref="extra"/>
+    <file name="master_a-master.css" crc="121541116" ref="index:music:extra:me"/>
+    <file name="index.css" crc="4165156217" ref="index"/>
+    <file name="music.css" crc="4194159597" ref="music"/>
+    <file name="extra.css" crc="4200245486" ref="extra"/>
+    <file name="me.css" crc="4045134401" ref="me"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:more:extra"/>
-    <file name="museutils.js" crc="3803043152" ref="index:music:more:extra"/>
-    <file name="whatinput.js" crc="86476730" ref="index:music:more:extra"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:music:more:extra"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:music:more:extra"/>
-    <file name="require.js" crc="4157109226" ref="index:music:more:extra"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:more:extra"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:music:more:extra"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:extra:me"/>
+    <file name="museutils.js" crc="3803043152" ref="index:music:extra:me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music:extra:me"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:music:extra:me"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:music:extra:me"/>
+    <file name="require.js" crc="4157109226" ref="index:music:extra:me"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:extra:me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:music:extra:me"/>
     <file name="webpro.js" crc="242022427" ref="music"/>
     <file name="musewpslideshow.js" crc="457073769" ref="music"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="music"/>
@@ -25,79 +25,68 @@
     <file name="favicon.ico" crc="502308340" ref="index"/>
     <file name="thumblargecdoutside1.jpg" crc="363365843" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
     <file name="thumblargecdoutside12.jpg" crc="133431280" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
     <file name="thumblargecdoutside13.jpg" crc="257202901" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
     <file name="thumblargecdoutside14.jpg" crc="356544181" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
     <file name="thumblargecdoutside15.jpg" crc="4104467472" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
     <file name="thumblargecdoutside16.jpg" crc="164455579" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
-    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:more:extra">
+    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:extra:me">
+      <caption webpage="index" alt=""/>
+      <caption webpage="live-stream" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="me" alt=""/>
       <caption webpage="more" alt=""/>
       <caption webpage="news" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
-      <caption webpage="live-stream" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="extra" alt=""/>
     </file>
-    <file name="front.jpg" crc="4042413589" seo="true" ref="music">
+    <file name="front.jpg" crc="498970821" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="music"/>
-    <file name="front2.jpg" crc="3779490266" seo="true" ref="music">
+    <file name="front2.jpg" crc="11044135" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="lovecover.jpg" crc="180466503" seo="true" ref="music">
+    <file name="lovecover.jpg" crc="373393861" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="cover.jpg" crc="4136870090" seo="true" ref="music">
+    <file name="cover.jpg" crc="3826339960" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="front3.jpg" crc="4201622553" seo="true" ref="music">
+    <file name="front3.jpg" crc="3834265079" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="music"/>
-    <file name="front2182x182.jpg" crc="150751492" seo="true" ref="music">
+    <file name="front4.jpg" crc="3961259247" seo="true" ref="music">
       <caption webpage="music" alt=""/>
-    </file>
-    <file name="front184x182.jpg" crc="314890163" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="front182x182.jpg" crc="4213746190" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="front184x1822.jpg" crc="468199115" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="cover182x182.jpg" crc="3821880288" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="lovecover182x182.jpg" crc="4027069918" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="front4.jpg" crc="287589628" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
     <file name="u7919-4.png" crc="3807816177" ref="extra"/>
@@ -106,9 +95,12 @@
     <file name="u7921-4.png" crc="375282433" ref="extra"/>
     <file name="u7923-4.png" crc="512314205" ref="extra"/>
     <file name="u7924-4.png" crc="512314205" ref="extra"/>
+    <file name="thumbnailsuper.jpg" crc="299756396" seo="true" ref="me">
+      <caption webpage="me" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="473700981" seo="true" mt="1522909830576" redirect="true"/>
-  <file name="music.html" crc="293538204" seo="true" mt="1522910323637" redirect="true"/>
-  <file name="more.html" crc="431093107" seo="true" mt="1522894662329" redirect="true"/>
-  <file name="extra.html" crc="3811814819" seo="true" mt="1522889739914" redirect="true"/>
+  <file name="index.html" crc="3975697579" seo="true" mt="1522946298377" redirect="true"/>
+  <file name="music.html" crc="4004538892" seo="true" mt="1522946211898" redirect="true"/>
+  <file name="extra.html" crc="302162841" seo="true" mt="1522944046814" redirect="true"/>
+  <file name="me.html" crc="406537845" seo="true" mt="1522946276854" redirect="true"/>
 </manifest>
