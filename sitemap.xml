@@ -15,24 +15,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside16.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
     </image:image>
     <image:image>
@@ -51,25 +33,25 @@
       <image:loc>http://THEHIPHOPGODS.com/images/front3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/front22.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/front2182x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/front142x140.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/front184x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/cover140x140.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/front182x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/front142x1402.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/front184x1822.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/front140x140.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/cover182x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/lovecover140x140.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/lovecover182x182.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/front2140x140.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/front4.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -77,6 +59,33 @@
     <lastmod>2018-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://THEHIPHOPGODS.com/extra.html</loc>
+    <lastmod>2018-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside16.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
     </image:image>
