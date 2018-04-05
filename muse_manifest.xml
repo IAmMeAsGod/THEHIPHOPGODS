@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522894983108">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1522910373819">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="121541116" ref="index:music:more:extra"/>
-    <file name="index.css" crc="162227837" ref="index"/>
-    <file name="music.css" crc="4053295573" ref="music"/>
+    <file name="index.css" crc="3797224705" ref="index"/>
+    <file name="music.css" crc="3800696696" ref="music"/>
     <file name="more.css" crc="4103184317" ref="more"/>
     <file name="extra.css" crc="3902540037" ref="extra"/>
   </folder>
@@ -55,12 +55,12 @@
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:more:extra">
       <caption webpage="video" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="more" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="extra" alt=""/>
       <caption webpage="live-stream" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
     <file name="front.jpg" crc="4042413589" seo="true" ref="music">
       <caption webpage="music" alt=""/>
@@ -107,8 +107,8 @@
     <file name="u7923-4.png" crc="512314205" ref="extra"/>
     <file name="u7924-4.png" crc="512314205" ref="extra"/>
   </folder>
-  <file name="index.html" crc="4243987936" seo="true" mt="1522894943699" redirect="true"/>
-  <file name="music.html" crc="3989152474" seo="true" mt="1522894828933" redirect="true"/>
+  <file name="index.html" crc="473700981" seo="true" mt="1522909830576" redirect="true"/>
+  <file name="music.html" crc="293538204" seo="true" mt="1522910323637" redirect="true"/>
   <file name="more.html" crc="431093107" seo="true" mt="1522894662329" redirect="true"/>
   <file name="extra.html" crc="3811814819" seo="true" mt="1522889739914" redirect="true"/>
 </manifest>
