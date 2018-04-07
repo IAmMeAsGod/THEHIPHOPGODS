@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1523069372907">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1523069564990">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="121541116" ref="index:music:extra:me"/>
     <file name="index.css" crc="4165156217" ref="index"/>
     <file name="music.css" crc="3997133449" ref="music"/>
     <file name="extra.css" crc="4200245486" ref="extra"/>
-    <file name="me.css" crc="3928107729" ref="me"/>
+    <file name="me.css" crc="10022867" ref="me"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:extra:me"/>
@@ -95,12 +95,12 @@
     <file name="u7921-4.png" crc="375282433" ref="extra"/>
     <file name="u7923-4.png" crc="512314205" ref="extra"/>
     <file name="u7924-4.png" crc="512314205" ref="extra"/>
-    <file name="thumbnailsuper-crop-u8408.jpg" crc="4074303189" seo="true" ref="me">
+    <file name="thumbnailsuper-crop-u8408.jpg" crc="259602486" seo="true" ref="me">
       <caption webpage="me" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="85576180" seo="true" mt="1522980707557" redirect="true"/>
   <file name="music.html" crc="182318581" seo="true" mt="1523068799698" redirect="true"/>
   <file name="extra.html" crc="161780397" seo="true" mt="1522952927172" redirect="true"/>
-  <file name="me.html" crc="204788051" seo="true" mt="1523069362966" redirect="true"/>
+  <file name="me.html" crc="299108564" seo="true" mt="1523069546933" redirect="true"/>
 </manifest>
