@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1523111827056">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1523111986848">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="121541116" ref="index:music:extra:me"/>
@@ -54,12 +54,12 @@
       <caption webpage="extra" alt=""/>
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="4254111311" seo="true" ref="index:music:extra:me">
-      <caption webpage="index" alt=""/>
+      <caption webpage="extra" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="live-stream" alt=""/>
       <caption webpage="music" alt=""/>
       <caption webpage="me" alt=""/>
-      <caption webpage="extra" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="more" alt=""/>
     </file>
@@ -99,8 +99,8 @@
       <caption webpage="me" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="65515351" seo="true" mt="1523111787856" redirect="true"/>
-  <file name="music.html" crc="3962101345" seo="true" mt="1523111787856" redirect="true"/>
-  <file name="extra.html" crc="340944141" seo="true" mt="1523111787856" redirect="true"/>
-  <file name="me.html" crc="69239393" seo="true" mt="1523111787856" redirect="true"/>
+  <file name="index.html" crc="395615231" seo="true" mt="1523111981736" redirect="true"/>
+  <file name="music.html" crc="426718036" seo="true" mt="1523111981736" redirect="true"/>
+  <file name="extra.html" crc="4265141573" seo="true" mt="1523111981736" redirect="true"/>
+  <file name="me.html" crc="32748765" seo="true" mt="1523111981736" redirect="true"/>
 </manifest>
