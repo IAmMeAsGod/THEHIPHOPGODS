@@ -35,6 +35,9 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/front4.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/front247x247.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/extra.html</loc>
