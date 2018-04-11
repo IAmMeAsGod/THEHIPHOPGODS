@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1523207505072">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com,https://iammeasgod.github.io/TheHipHopGod" resolutions="1x" timestamp="1523468760976">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="26856498" ref="index:music:extra:me"/>
     <file name="index.css" crc="277897674" ref="index"/>
-    <file name="music.css" crc="460482636" ref="music"/>
+    <file name="music.css" crc="3763623705" ref="music"/>
     <file name="extra.css" crc="3931498454" ref="extra"/>
-    <file name="me.css" crc="4235226835" ref="me"/>
+    <file name="me.css" crc="205506566" ref="me"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:extra:me"/>
@@ -22,7 +22,7 @@
     <file name="touchswipe.js" crc="4066113679" ref="music"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="502308340" ref="index:music"/>
+    <file name="favicon.ico" crc="502308340" ref="index"/>
     <file name="thumblargecdoutside1.jpg" crc="363365843" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
       <caption webpage="music" alt=""/>
@@ -55,13 +55,13 @@
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="318535082" seo="true" ref="index:music:extra:me">
       <caption webpage="video" alt=""/>
+      <caption webpage="live-stream" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="more" alt=""/>
       <caption webpage="me" alt=""/>
       <caption webpage="extra" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="news" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="live-stream" alt=""/>
     </file>
     <file name="front.jpg" crc="3773227834" seo="true" ref="music">
       <caption webpage="music" alt=""/>
@@ -94,15 +94,12 @@
     <file name="u7921-4.png" crc="375282433" ref="extra"/>
     <file name="u7923-4.png" crc="512314205" ref="extra"/>
     <file name="u7924-4.png" crc="512314205" ref="extra"/>
-    <file name="thumbnailsuper-crop-u8408.jpg" crc="259602486" seo="true" ref="me">
-      <caption webpage="me" alt=""/>
-    </file>
     <file name="front247x247.jpg" crc="3970260062" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="486721783" seo="true" mt="1523207382974" redirect="true"/>
-  <file name="music.html" crc="4166039093" seo="true" mt="1523207495029" redirect="true"/>
-  <file name="extra.html" crc="195443646" seo="true" mt="1523112415565" redirect="true"/>
-  <file name="me.html" crc="4212625753" seo="true" mt="1523207341756" redirect="true"/>
+  <file name="index.html" crc="3982679960" seo="true" mt="1523468552460" redirect="true"/>
+  <file name="music.html" crc="4041006340" seo="true" mt="1523468675327" redirect="true"/>
+  <file name="extra.html" crc="153481435" seo="true" mt="1523468706881" redirect="true"/>
+  <file name="me.html" crc="3940883863" seo="true" mt="1523468754804" redirect="true"/>
 </manifest>
