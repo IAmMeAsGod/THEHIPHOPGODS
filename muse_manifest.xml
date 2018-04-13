@@ -1,21 +1,22 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523470132869">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523627300471">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="26856498" ref="index:music:extra:me"/>
-    <file name="index.css" crc="277897674" ref="index"/>
-    <file name="music.css" crc="3763623705" ref="music"/>
-    <file name="extra.css" crc="3931498454" ref="extra"/>
-    <file name="me.css" crc="205506566" ref="me"/>
+    <file name="master_a-master.css" crc="3987462306" ref="index:music:extra:me:plants"/>
+    <file name="index.css" crc="3881740602" ref="index"/>
+    <file name="music.css" crc="131010561" ref="music"/>
+    <file name="extra.css" crc="3844941323" ref="extra"/>
+    <file name="me.css" crc="4016835267" ref="me"/>
+    <file name="plants.css" crc="43011222" ref="plants"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:extra:me"/>
-    <file name="museutils.js" crc="3803043152" ref="index:music:extra:me"/>
-    <file name="whatinput.js" crc="86476730" ref="index:music:extra:me"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:music:extra:me"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:music:extra:me"/>
-    <file name="require.js" crc="4157109226" ref="index:music:extra:me"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:extra:me"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:music:extra:me"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:extra:me:plants"/>
+    <file name="museutils.js" crc="3803043152" ref="index:music:extra:me:plants"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music:extra:me:plants"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:music:extra:me:plants"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:music:extra:me:plants"/>
+    <file name="require.js" crc="4157109226" ref="index:music:extra:me:plants"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:extra:me:plants"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:music:extra:me:plants"/>
     <file name="webpro.js" crc="242022427" ref="music"/>
     <file name="musewpslideshow.js" crc="457073769" ref="music"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="music"/>
@@ -53,15 +54,16 @@
       <caption webpage="music" alt=""/>
       <caption webpage="extra" alt=""/>
     </file>
-    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="318535082" seo="true" ref="index:music:extra:me">
-      <caption webpage="video" alt=""/>
-      <caption webpage="live-stream" alt=""/>
+    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:extra:me:plants">
+      <caption webpage="plants" alt=""/>
       <caption webpage="music" alt=""/>
-      <caption webpage="more" alt=""/>
-      <caption webpage="me" alt=""/>
       <caption webpage="extra" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="live-stream" alt=""/>
+      <caption webpage="video" alt=""/>
       <caption webpage="news" alt=""/>
+      <caption webpage="more" alt=""/>
+      <caption webpage="me" alt=""/>
     </file>
     <file name="front.jpg" crc="3773227834" seo="true" ref="music">
       <caption webpage="music" alt=""/>
@@ -98,8 +100,9 @@
       <caption webpage="music" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3982679960" seo="true" mt="1523468552460" redirect="true"/>
-  <file name="music.html" crc="4041006340" seo="true" mt="1523468675327" redirect="true"/>
-  <file name="extra.html" crc="153481435" seo="true" mt="1523468706881" redirect="true"/>
-  <file name="me.html" crc="3940883863" seo="true" mt="1523468754804" redirect="true"/>
+  <file name="index.html" crc="4169275955" seo="true" mt="1523627233612" redirect="true"/>
+  <file name="music.html" crc="61743251" seo="true" mt="1523627233612" redirect="true"/>
+  <file name="extra.html" crc="3804652334" seo="true" mt="1523627233612" redirect="true"/>
+  <file name="me.html" crc="127847854" seo="true" mt="1523627233612" redirect="true"/>
+  <file name="plants.html" crc="502737257" seo="true" mt="1523627265817" redirect="true"/>
 </manifest>
