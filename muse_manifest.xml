@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523649363483">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523736711857">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3987462306" ref="index:music:extra:me:plants"/>
+    <file name="master_a-master.css" crc="4217139695" ref="index:music:extra:me:plants"/>
     <file name="index.css" crc="513137136" ref="index"/>
-    <file name="music.css" crc="4215769596" ref="music"/>
+    <file name="music.css" crc="3880605267" ref="music"/>
     <file name="extra.css" crc="3844941323" ref="extra"/>
-    <file name="me.css" crc="407269219" ref="me"/>
+    <file name="me.css" crc="181743627" ref="me"/>
     <file name="plants.css" crc="43011222" ref="plants"/>
   </folder>
   <folder name="scripts">
@@ -23,26 +23,26 @@
     <file name="touchswipe.js" crc="4066113679" ref="music"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="502308340" ref="index"/>
-    <file name="thumblargecdoutside1.jpg" crc="363365843" seo="true" ref="extra">
+    <file name="favicon.ico" crc="502308340" ref="index:music"/>
+    <file name="thumblargecdoutside1.jpg" crc="4129434204" seo="true" ref="extra:music">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="extra" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
-    <file name="thumblargecdoutside12.jpg" crc="133431280" seo="true" ref="extra">
+    <file name="thumblargecdoutside12.jpg" crc="363638641" seo="true" ref="extra:music">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="extra" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
-    <file name="thumblargecdoutside13.jpg" crc="257202901" seo="true" ref="extra">
+    <file name="thumblargecdoutside13.jpg" crc="478160583" seo="true" ref="extra:music">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="extra" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
-    <file name="thumblargecdoutside14.jpg" crc="356544181" seo="true" ref="extra">
+    <file name="thumblargecdoutside14.jpg" crc="228050668" seo="true" ref="extra:music">
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="extra" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
     <file name="thumblargecdoutside15.jpg" crc="4104467472" seo="true" ref="extra">
       <caption webpage="index" alt=""/>
@@ -55,54 +55,55 @@
       <caption webpage="extra" alt=""/>
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:extra:me:plants">
-      <caption webpage="news" alt=""/>
-      <caption webpage="plants" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="extra" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="live-stream" alt=""/>
       <caption webpage="me" alt=""/>
+      <caption webpage="extra" alt=""/>
+      <caption webpage="plants" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="more" alt=""/>
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="front.jpg" crc="3773227834" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="music"/>
-    <file name="front2.jpg" crc="11044135" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="lovecover.jpg" crc="373393861" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="cover.jpg" crc="3826339960" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-    </file>
-    <file name="front3.jpg" crc="3961259247" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="music"/>
-    <file name="front4.jpg" crc="4042413589" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
     <file name="u7919-4.png" crc="3807816177" ref="extra"/>
     <file name="u7920-4.png" crc="375282433" ref="extra"/>
     <file name="u7922-4.png" crc="47636854" ref="extra"/>
     <file name="u7921-4.png" crc="375282433" ref="extra"/>
     <file name="u7923-4.png" crc="512314205" ref="extra"/>
     <file name="u7924-4.png" crc="512314205" ref="extra"/>
-    <file name="front247x247.jpg" crc="3970260062" seo="true" ref="music">
+    <file name="thumblargecdoutside1241x210.jpg" crc="4215511537" seo="true" ref="music">
       <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside1241x210.png" crc="4037051006" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside1241x2102.jpg" crc="4076630451" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside1241x2103.jpg" crc="4048506385" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside1241x2104.jpg" crc="278368556" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside1241x2102.png" crc="3981923964" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside1.png" crc="86128898" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargecdoutside12.png" crc="356316223" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="vlcsnap-2018-04-11-23h53m50s196.jpg" crc="3867092742" seo="true" ref="me">
+      <caption webpage="me" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4029056227" seo="true" mt="1523649306552" redirect="true"/>
-  <file name="music.html" crc="3949589113" seo="true" mt="1523649320096" redirect="true"/>
+  <file name="music.html" crc="52399864" seo="true" mt="1523736549621" redirect="true"/>
   <file name="extra.html" crc="3804652334" seo="true" mt="1523627233612" redirect="true"/>
-  <file name="me.html" crc="4056932525" seo="true" mt="1523649356872" redirect="true"/>
-  <file name="plants.html" crc="502737257" seo="true" mt="1523627265817" redirect="true"/>
+  <file name="me.html" crc="406728047" seo="true" mt="1523735966075" redirect="true"/>
+  <file name="plants.html" crc="3974906220" seo="true" mt="1523730696033" redirect="true"/>
 </manifest>
