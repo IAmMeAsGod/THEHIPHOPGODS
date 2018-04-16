@@ -54,9 +54,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1.png</image:loc>
     </image:image>
     <image:image>
@@ -74,15 +71,15 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1159x139.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/flow.html</loc>
     <lastmod>2018-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside12.png</image:loc>
     </image:image>
@@ -101,15 +98,15 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1-crop-u11398.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/the-brown-album.html</loc>
     <lastmod>2018-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1-crop-u11491.jpg</image:loc>
     </image:image>
@@ -128,15 +125,15 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1-crop-u11517.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/present.html</loc>
     <lastmod>2018-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1-crop-u11580.png</image:loc>
     </image:image>
@@ -155,15 +152,15 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumbmediumcdback1-crop-u11626.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/sugar.html</loc>
     <lastmod>2018-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1-crop-u11679.jpg</image:loc>
     </image:image>
@@ -182,15 +179,15 @@
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1-crop-u11665.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/reason.html</loc>
     <lastmod>2018-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargedisc1%20(1)-crop-u11869.jpg</image:loc>
     </image:image>
@@ -208,6 +205,9 @@
     </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
