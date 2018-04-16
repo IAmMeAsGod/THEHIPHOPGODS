@@ -192,9 +192,6 @@
       <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside14.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargedisc1%20(1)-crop-u11869.jpg</image:loc>
     </image:image>
     <image:image>
@@ -208,6 +205,9 @@
     </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1159x139.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside13.png</image:loc>
     </image:image>
   </url>
 </urlset>
