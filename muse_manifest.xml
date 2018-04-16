@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523846753523">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523847747435">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4260892043" ref="index:music:me"/>
     <file name="index.css" crc="458133091" ref="index"/>
-    <file name="music.css" crc="260675644" ref="music"/>
-    <file name="me.css" crc="198062806" ref="me"/>
-    <file name="plants.css" crc="3827947264" ref="plants"/>
-    <file name="reason.css" crc="3959272842" ref="reason"/>
-    <file name="sugar.css" crc="379655681" ref="sugar"/>
-    <file name="present.css" crc="240260127" ref="present"/>
-    <file name="flow.css" crc="2162449" ref="flow"/>
-    <file name="the-brown-album.css" crc="334891944" ref="the-brown-album"/>
-    <file name="master_music--master.css" crc="4029943704" ref="sugar:flow:reason:the-brown-album:present:plants"/>
+    <file name="music.css" crc="159845583" ref="music"/>
+    <file name="me.css" crc="42737874" ref="me"/>
+    <file name="plants.css" crc="4077301470" ref="plants"/>
+    <file name="reason.css" crc="4077197827" ref="reason"/>
+    <file name="sugar.css" crc="4186740255" ref="sugar"/>
+    <file name="present.css" crc="438503314" ref="present"/>
+    <file name="flow.css" crc="3971723473" ref="flow"/>
+    <file name="the-brown-album.css" crc="271888495" ref="the-brown-album"/>
+    <file name="master_music--master.css" crc="460431259" ref="sugar:flow:reason:the-brown-album:present:plants"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:me:plants:flow:the-brown-album:present:sugar:reason"/>
@@ -28,22 +28,22 @@
     <file name="touchswipe.js" crc="4066113679" ref="plants:flow:the-brown-album:present:sugar:reason"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4035070400" ref="index:music"/>
+    <file name="favicon.ico" crc="4035070400" ref="index:music:me"/>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:me">
       <caption webpage="present" alt=""/>
-      <caption webpage="more" alt=""/>
       <caption webpage="me" alt=""/>
-      <caption webpage="video" alt=""/>
       <caption webpage="plants" alt=""/>
       <caption webpage="flow" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
+      <caption webpage="video" alt=""/>
       <caption webpage="extra" alt=""/>
       <caption webpage="sugar" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="reason" alt=""/>
-      <caption webpage="live-stream" alt=""/>
+      <caption webpage="more" alt=""/>
       <caption webpage="the-brown-album" alt=""/>
+      <caption webpage="live-stream" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="plants:flow:the-brown-album:present:sugar:reason"/>
     <file name="loading.gif" crc="3815509949" ref="plants:flow:the-brown-album:present:sugar:reason"/>
@@ -53,7 +53,7 @@
     <file name="thumblargecdoutside1241x2102.png" crc="3807856366" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
-    <file name="thumblargecdoutside1.png" crc="481023781" seo="true" ref="plants">
+    <file name="thumblargecdoutside1.png" crc="351833733" seo="true" ref="plants">
       <caption webpage="plants" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
@@ -79,7 +79,7 @@
     <file name="thumblargecdoutside1241x2103.png" crc="3993701962" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
-    <file name="thumblargecdoutside1159x139.png" crc="3781154683" seo="true" ref="plants">
+    <file name="thumblargecdoutside1159x139.png" crc="3764787023" seo="true" ref="plants">
       <caption webpage="plants" alt=""/>
     </file>
     <file name="thumblargedisc1-crop-u11432.jpg" crc="3826329119" seo="true" ref="flow">
@@ -166,7 +166,7 @@
     <file name="thumblargecdback1159x139.jpg" crc="319527391" seo="true" ref="reason">
       <caption webpage="reason" alt=""/>
     </file>
-    <file name="thumblargecdoutside1242x210.png" crc="4292017482" seo="true" ref="music">
+    <file name="thumblargecdoutside1242x210.png" crc="4115279404" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
     <file name="thumblargecdoutside1242x211.jpg" crc="4127143972" seo="true" ref="music">
@@ -188,12 +188,12 @@
     </file>
   </folder>
   <file name="index.html" crc="336501545" seo="true" mt="1523811388741" redirect="true"/>
-  <file name="music.html" crc="124736215" seo="true" mt="1523846401610" redirect="true"/>
-  <file name="me.html" crc="4167662135" seo="true" mt="1523845362221" redirect="true"/>
-  <file name="plants.html" crc="252684810" seo="true" mt="1523846740776" redirect="true"/>
-  <file name="flow.html" crc="4147589343" seo="true" mt="1523846740776" redirect="true"/>
-  <file name="the-brown-album.html" crc="104327300" seo="true" mt="1523846740776" redirect="true"/>
-  <file name="present.html" crc="3945745635" seo="true" mt="1523846740776" redirect="true"/>
-  <file name="sugar.html" crc="246095024" seo="true" mt="1523846740776" redirect="true"/>
-  <file name="reason.html" crc="3791057766" seo="true" mt="1523846740776" redirect="true"/>
+  <file name="music.html" crc="241896553" seo="true" mt="1523847730342" redirect="true"/>
+  <file name="me.html" crc="4206882404" seo="true" mt="1523847247416" redirect="true"/>
+  <file name="plants.html" crc="4032814409" seo="true" mt="1523847640706" redirect="true"/>
+  <file name="flow.html" crc="509034986" seo="true" mt="1523847649122" redirect="true"/>
+  <file name="the-brown-album.html" crc="530801373" seo="true" mt="1523847654955" redirect="true"/>
+  <file name="present.html" crc="423247907" seo="true" mt="1523847659291" redirect="true"/>
+  <file name="sugar.html" crc="4036429906" seo="true" mt="1523847663483" redirect="true"/>
+  <file name="reason.html" crc="3989620889" seo="true" mt="1523847668137" redirect="true"/>
 </manifest>
