@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1523849562533">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1524152792674">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4260892043" ref="index:music:me"/>
+    <file name="master_a-master.css" crc="419328094" ref="index:music:me"/>
     <file name="index.css" crc="458133091" ref="index"/>
     <file name="music.css" crc="462559873" ref="music"/>
     <file name="me.css" crc="507455174" ref="me"/>
@@ -30,20 +30,20 @@
   <folder name="images">
     <file name="favicon.ico" crc="4035070400" ref="index"/>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:me">
-      <caption webpage="present" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="me" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="flow" alt=""/>
-      <caption webpage="plants" alt=""/>
       <caption webpage="music" alt=""/>
-      <caption webpage="extra" alt=""/>
+      <caption webpage="me" alt=""/>
+      <caption webpage="present" alt=""/>
       <caption webpage="live-stream" alt=""/>
-      <caption webpage="sugar" alt=""/>
+      <caption webpage="extra" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="flow" alt=""/>
       <caption webpage="reason" alt=""/>
-      <caption webpage="more" alt=""/>
+      <caption webpage="sugar" alt=""/>
       <caption webpage="the-brown-album" alt=""/>
+      <caption webpage="plants" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="more" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="plants:flow:the-brown-album:present:sugar:reason"/>
     <file name="loading.gif" crc="3815509949" ref="plants:flow:the-brown-album:present:sugar:reason"/>
@@ -187,7 +187,7 @@
       <caption webpage="reason" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3933759265" seo="true" mt="1523849543511" redirect="true"/>
+  <file name="index.html" crc="3776332162" seo="true" mt="1524152785855" redirect="true"/>
   <file name="music.html" crc="357479480" seo="true" mt="1523849543511" redirect="true"/>
   <file name="me.html" crc="4074831608" seo="true" mt="1523849543511" redirect="true"/>
   <file name="plants.html" crc="3875373175" seo="true" mt="1523848549515" redirect="true"/>
