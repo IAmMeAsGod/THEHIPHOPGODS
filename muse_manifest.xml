@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1524162097344">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1524162305504">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3987462306" ref="index:music:me"/>
@@ -52,10 +52,6 @@
     </file>
     <file name="thumblargecdoutside1241x2102.png" crc="3993701962" seo="true" ref="music">
       <caption webpage="music" alt=""/>
-    </file>
-    <file name="thumblargecdoutside1.png" crc="4290159765" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-      <caption webpage="plants" alt=""/>
     </file>
     <file name="thumblargecdoutside12.png" crc="351833733" seo="true" ref="plants">
       <caption webpage="flow" alt=""/>
@@ -167,7 +163,7 @@
     <file name="thumblargecdoutside1242x211.jpg" crc="4127143972" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
-    <file name="thumblargecdoutside1241x209.jpg" crc="3953838311" seo="true" ref="music">
+    <file name="thumblargecdoutside1241x209.jpg" crc="177139833" seo="true" ref="music">
       <caption webpage="music" alt=""/>
     </file>
     <file name="thumblargecdoutside13.png" crc="359286487" seo="true" ref="reason">
@@ -194,9 +190,12 @@
     <file name="thumblargedisc1-crop-u12376.jpg" crc="4080632348" seo="true" ref="get-high">
       <caption webpage="get-high" alt=""/>
     </file>
+    <file name="thumblargecdoutside1241x2092.jpg" crc="3953838311" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3776332162" seo="true" mt="1524152785855" redirect="true"/>
-  <file name="music.html" crc="4084653392" seo="true" mt="1524162084648" redirect="true"/>
+  <file name="music.html" crc="3949599101" seo="true" mt="1524162298791" redirect="true"/>
   <file name="me.html" crc="4074831608" seo="true" mt="1523849543511" redirect="true"/>
   <file name="plants.html" crc="4045077842" seo="true" mt="1524161293626" redirect="true"/>
   <file name="the-brown-album.html" crc="3943711215" seo="true" mt="1524161306819" redirect="true"/>
