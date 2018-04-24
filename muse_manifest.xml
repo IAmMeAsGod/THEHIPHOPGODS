@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1524521778170">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1524583742201">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3987462306" ref="index:music:me"/>
@@ -9,7 +9,7 @@
     <file name="reason.css" crc="4184069467" ref="reason"/>
     <file name="sugar.css" crc="185098220" ref="sugar"/>
     <file name="present.css" crc="43750107" ref="present"/>
-    <file name="the-brown-album.css" crc="4046896155" ref="the-brown-album"/>
+    <file name="the-brown-album.css" crc="3784945905" ref="the-brown-album"/>
     <file name="master_music--master.css" crc="4267617590" ref="sugar:reason:the-brown-album:present:plants:get-high"/>
     <file name="get-high.css" crc="93518320" ref="get-high"/>
   </folder>
@@ -62,8 +62,9 @@
     <file name="vlcsnap-2018-04-11-23h53m50s196.jpg" crc="497058548" seo="true" ref="me">
       <caption webpage="me" alt=""/>
     </file>
-    <file name="thumblargedisc1 (1)140x140.jpg" crc="483688058" seo="true" ref="plants">
+    <file name="thumblargedisc1 (1)140x140.jpg" crc="3960917674" seo="true" ref="plants:the-brown-album">
       <caption webpage="plants" alt=""/>
+      <caption webpage="the-brown-album" alt=""/>
     </file>
     <file name="thumbmediumcdback1159x139.jpg" crc="260087275" seo="true" ref="plants">
       <caption webpage="plants" alt=""/>
@@ -85,19 +86,16 @@
       <caption webpage="flow" alt=""/>
       <caption webpage="reason" alt=""/>
     </file>
-    <file name="thumblargedisc1140x140.jpg" crc="199853099" seo="true" ref="the-brown-album:get-high">
+    <file name="thumblargedisc1140x140.jpg" crc="199853099" seo="true" ref="get-high">
+      <caption webpage="get-high" alt=""/>
       <caption webpage="the-brown-album" alt=""/>
       <caption webpage="flow" alt=""/>
-      <caption webpage="get-high" alt=""/>
     </file>
     <file name="thumblargecdback1-crop-u11398.jpg" crc="536322154" seo="true" ref="get-high">
       <caption webpage="flow" alt=""/>
       <caption webpage="get-high" alt=""/>
     </file>
     <file name="thumblargecdoutside1-crop-u11491.jpg" crc="4030685733" seo="true" ref="the-brown-album">
-      <caption webpage="the-brown-album" alt=""/>
-    </file>
-    <file name="thumblargedisc1-crop-u11531.jpg" crc="3966522065" seo="true" ref="the-brown-album">
       <caption webpage="the-brown-album" alt=""/>
     </file>
     <file name="thumblargecdback1-crop-u11511.jpg" crc="3979282081" seo="true" ref="the-brown-album">
@@ -169,13 +167,13 @@
       <caption webpage="music" alt=""/>
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u12127.jpg" crc="71511817" seo="true" ref="plants:the-brown-album:present:sugar:reason:get-high">
-      <caption webpage="the-brown-album" alt=""/>
-      <caption webpage="reason" alt=""/>
-      <caption webpage="present" alt=""/>
       <caption webpage="get-high" alt=""/>
-      <caption webpage="plants" alt=""/>
-      <caption webpage="flow" alt=""/>
+      <caption webpage="the-brown-album" alt=""/>
       <caption webpage="sugar" alt=""/>
+      <caption webpage="flow" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="reason" alt=""/>
+      <caption webpage="plants" alt=""/>
     </file>
     <file name="thumblargedisc1-crop-u12370.jpg" crc="4130212745" seo="true" ref="get-high">
       <caption webpage="get-high" alt=""/>
@@ -192,14 +190,17 @@
     <file name="thumblargecdoutside1-crop-u12356.png" crc="110072646" seo="true" ref="get-high">
       <caption webpage="get-high" alt=""/>
     </file>
+    <file name="thumblargedisc1 (1)-crop-u12669.jpg" crc="161577709" seo="true" ref="the-brown-album">
+      <caption webpage="the-brown-album" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3837445557" seo="true" mt="1524434039208" redirect="true"/>
   <file name="music.html" crc="4170395413" seo="true" mt="1524521447684" redirect="true"/>
   <file name="me.html" crc="4244931626" seo="true" mt="1524434039208" redirect="true"/>
   <file name="plants.html" crc="4206429599" seo="true" mt="1524434039211" redirect="true"/>
-  <file name="the-brown-album.html" crc="363784511" seo="true" mt="1524434039211" redirect="true"/>
+  <file name="the-brown-album.html" crc="3833881104" seo="true" mt="1524583680009" redirect="true"/>
   <file name="present.html" crc="3787517274" seo="true" mt="1524434039211" redirect="true"/>
   <file name="sugar.html" crc="79303271" seo="true" mt="1524434039211" redirect="true"/>
   <file name="reason.html" crc="3951596185" seo="true" mt="1524434039211" redirect="true"/>
-  <file name="get-high.html" crc="189513482" seo="true" mt="1524521766220" redirect="true"/>
+  <file name="get-high.html" crc="189513482" seo="true" mt="1524522145803" redirect="true"/>
 </manifest>
