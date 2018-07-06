@@ -1,49 +1,50 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1524583742201">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1530912079526">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3987462306" ref="index:music:me"/>
+    <file name="master_a-master.css" crc="3882947145" ref="index:music:contact"/>
     <file name="index.css" crc="3797146062" ref="index"/>
-    <file name="music.css" crc="14557734" ref="music"/>
-    <file name="me.css" crc="4208172313" ref="me"/>
-    <file name="plants.css" crc="3873604174" ref="plants"/>
-    <file name="reason.css" crc="4184069467" ref="reason"/>
-    <file name="sugar.css" crc="185098220" ref="sugar"/>
-    <file name="present.css" crc="43750107" ref="present"/>
-    <file name="the-brown-album.css" crc="3784945905" ref="the-brown-album"/>
-    <file name="master_music--master.css" crc="4267617590" ref="sugar:reason:the-brown-album:present:plants:get-high"/>
-    <file name="get-high.css" crc="93518320" ref="get-high"/>
+    <file name="music.css" crc="4204030174" ref="music"/>
+    <file name="plants.css" crc="3828389955" ref="plants"/>
+    <file name="reason.css" crc="103255299" ref="reason"/>
+    <file name="sugar.css" crc="63715234" ref="sugar"/>
+    <file name="present.css" crc="438070037" ref="present"/>
+    <file name="the-brown-album.css" crc="363964763" ref="the-brown-album"/>
+    <file name="master_music--master.css" crc="431692814" ref="sugar:reason:the-brown-album:present:plants:get-high"/>
+    <file name="get-high.css" crc="4055556186" ref="get-high"/>
+    <file name="contact.css" crc="132643880" ref="contact"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="museutils.js" crc="3803043152" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="whatinput.js" crc="86476730" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="require.js" crc="4157109226" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:music:me:plants:the-brown-album:present:sugar:reason:get-high"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
     <file name="webpro.js" crc="242022427" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
     <file name="musewpslideshow.js" crc="457073769" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
     <file name="touchswipe.js" crc="4066113679" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4035070400" ref="index:music:get-high"/>
-    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:me">
+    <file name="favicon.ico" crc="481032604" ref="index"/>
+    <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:contact">
+      <caption webpage="extra" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sugar" alt=""/>
+      <caption webpage="live-stream" alt=""/>
+      <caption webpage="me" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="reason" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="more" alt=""/>
       <caption webpage="the-brown-album" alt=""/>
       <caption webpage="present" alt=""/>
-      <caption webpage="me" alt=""/>
-      <caption webpage="plants" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="flow" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="more" alt=""/>
-      <caption webpage="extra" alt=""/>
-      <caption webpage="reason" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="live-stream" alt=""/>
-      <caption webpage="sugar" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="flow" alt=""/>
+      <caption webpage="plants" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
     <file name="loading.gif" crc="3815509949" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
@@ -54,15 +55,16 @@
       <caption webpage="music" alt=""/>
     </file>
     <file name="thumblargecdoutside12.png" crc="359286487" seo="true" ref="reason">
-      <caption webpage="reason" alt=""/>
       <caption webpage="music" alt=""/>
+      <caption webpage="reason" alt=""/>
       <caption webpage="flow" alt=""/>
       <caption webpage="plants" alt=""/>
     </file>
-    <file name="vlcsnap-2018-04-11-23h53m50s196.jpg" crc="497058548" seo="true" ref="me">
+    <file name="vlcsnap-2018-04-11-23h53m50s196.jpg" crc="497058548" seo="true" ref="contact">
       <caption webpage="me" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="thumblargedisc1 (1)140x140.jpg" crc="3960917674" seo="true" ref="plants:the-brown-album">
+    <file name="thumblargedisc1 (1)140x140.jpg" crc="483688058" seo="true" ref="plants">
       <caption webpage="plants" alt=""/>
       <caption webpage="the-brown-album" alt=""/>
     </file>
@@ -87,9 +89,9 @@
       <caption webpage="reason" alt=""/>
     </file>
     <file name="thumblargedisc1140x140.jpg" crc="199853099" seo="true" ref="get-high">
-      <caption webpage="get-high" alt=""/>
-      <caption webpage="the-brown-album" alt=""/>
       <caption webpage="flow" alt=""/>
+      <caption webpage="the-brown-album" alt=""/>
+      <caption webpage="get-high" alt=""/>
     </file>
     <file name="thumblargecdback1-crop-u11398.jpg" crc="536322154" seo="true" ref="get-high">
       <caption webpage="flow" alt=""/>
@@ -151,7 +153,8 @@
     <file name="thumblargecdback1-crop-u11829.jpg" crc="3834070053" seo="true" ref="reason">
       <caption webpage="reason" alt=""/>
     </file>
-    <file name="thumblargedisc1 (1)140x1402.jpg" crc="736133" seo="true" ref="reason">
+    <file name="thumblargedisc1 (1)140x1402.jpg" crc="3960917674" seo="true" ref="the-brown-album">
+      <caption webpage="the-brown-album" alt=""/>
       <caption webpage="reason" alt=""/>
     </file>
     <file name="thumblargecdback1159x139.jpg" crc="319527391" seo="true" ref="reason">
@@ -167,12 +170,12 @@
       <caption webpage="music" alt=""/>
     </file>
     <file name="websitemasterlogobleumauvejpg-crop-u12127.jpg" crc="71511817" seo="true" ref="plants:the-brown-album:present:sugar:reason:get-high">
+      <caption webpage="reason" alt=""/>
       <caption webpage="get-high" alt=""/>
       <caption webpage="the-brown-album" alt=""/>
+      <caption webpage="present" alt=""/>
       <caption webpage="sugar" alt=""/>
       <caption webpage="flow" alt=""/>
-      <caption webpage="present" alt=""/>
-      <caption webpage="reason" alt=""/>
       <caption webpage="plants" alt=""/>
     </file>
     <file name="thumblargedisc1-crop-u12370.jpg" crc="4130212745" seo="true" ref="get-high">
@@ -181,26 +184,29 @@
     <file name="thumblargecdoutside1.png" crc="351833733" seo="true" ref="plants">
       <caption webpage="plants" alt=""/>
     </file>
-    <file name="thumblargecdoutside1.jpg" crc="4238936154" seo="true" ref="music">
-      <caption webpage="music" alt=""/>
-    </file>
     <file name="thumblargecdoutside1-crop-u12350.png" crc="77741558" seo="true" ref="get-high">
       <caption webpage="get-high" alt=""/>
     </file>
     <file name="thumblargecdoutside1-crop-u12356.png" crc="110072646" seo="true" ref="get-high">
       <caption webpage="get-high" alt=""/>
     </file>
-    <file name="thumblargedisc1 (1)-crop-u12669.jpg" crc="161577709" seo="true" ref="the-brown-album">
+    <file name="thumblargedisc1 (1)-crop-u12669.jpg" crc="3966522065" seo="true" ref="the-brown-album">
       <caption webpage="the-brown-album" alt=""/>
     </file>
+    <file name="thumblargecdoutside1241x209.png" crc="230323738" seo="true" ref="music">
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="thumblargedisc1 (1)140x1403.jpg" crc="736133" seo="true" ref="reason">
+      <caption webpage="reason" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3837445557" seo="true" mt="1524434039208" redirect="true"/>
-  <file name="music.html" crc="4170395413" seo="true" mt="1524521447684" redirect="true"/>
-  <file name="me.html" crc="4244931626" seo="true" mt="1524434039208" redirect="true"/>
-  <file name="plants.html" crc="4206429599" seo="true" mt="1524434039211" redirect="true"/>
-  <file name="the-brown-album.html" crc="3833881104" seo="true" mt="1524583680009" redirect="true"/>
-  <file name="present.html" crc="3787517274" seo="true" mt="1524434039211" redirect="true"/>
-  <file name="sugar.html" crc="79303271" seo="true" mt="1524434039211" redirect="true"/>
-  <file name="reason.html" crc="3951596185" seo="true" mt="1524434039211" redirect="true"/>
-  <file name="get-high.html" crc="189513482" seo="true" mt="1524522145803" redirect="true"/>
+  <file name="index.html" crc="334225781" seo="true" mt="1530911154459" redirect="true"/>
+  <file name="music.html" crc="4035349480" seo="true" mt="1530911154459" redirect="true"/>
+  <file name="plants.html" crc="4087959330" seo="true" mt="1530911057151" redirect="true"/>
+  <file name="the-brown-album.html" crc="4057562396" seo="true" mt="1530911057151" redirect="true"/>
+  <file name="present.html" crc="3898619037" seo="true" mt="1530911057151" redirect="true"/>
+  <file name="sugar.html" crc="4045067586" seo="true" mt="1530911057151" redirect="true"/>
+  <file name="reason.html" crc="4227552759" seo="true" mt="1530911057151" redirect="true"/>
+  <file name="get-high.html" crc="4265555135" seo="true" mt="1530911057151" redirect="true"/>
+  <file name="contact.html" crc="3778965826" seo="true" mt="1530912062029" redirect="true"/>
 </manifest>

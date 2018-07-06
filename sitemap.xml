@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://THEHIPHOPGODS.com/index.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/music.html</loc>
-    <lastmod>2018-04-23</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -33,24 +33,12 @@
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1241x209.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://THEHIPHOPGODS.com/me.html</loc>
-    <lastmod>2018-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/vlcsnap-2018-04-11-23h53m50s196.jpg</image:loc>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1241x209.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/plants.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -77,12 +65,9 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/the-brown-album.html</loc>
-    <lastmod>2018-04-24</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargedisc1%20(1)140x140.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1-crop-u11491.jpg</image:loc>
     </image:image>
@@ -96,6 +81,9 @@
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1-crop-u11517.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargedisc1%20(1)140x1402.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
     </image:image>
     <image:image>
@@ -104,7 +92,7 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/present.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,7 +119,7 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/sugar.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -158,7 +146,7 @@
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/reason.html</loc>
-    <lastmod>2018-04-22</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -174,18 +162,18 @@
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1-crop-u11829.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://THEHIPHOPGODS.com/images/thumblargedisc1%20(1)140x1402.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdback1159x139.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u12127.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/thumblargedisc1%20(1)140x1403.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://THEHIPHOPGODS.com/get-high.html</loc>
-    <lastmod>2018-04-23</lastmod>
+    <lastmod>2018-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -208,6 +196,18 @@
     </image:image>
     <image:image>
       <image:loc>http://THEHIPHOPGODS.com/images/thumblargecdoutside1-crop-u12356.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://THEHIPHOPGODS.com/contact.html</loc>
+    <lastmod>2018-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/websitemasterlogobleumauvejpg-crop-u3299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://THEHIPHOPGODS.com/images/vlcsnap-2018-04-11-23h53m50s196.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
