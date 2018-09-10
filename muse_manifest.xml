@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1532893410181">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="THEHIPHOPGODS.com" resolutions="1x" timestamp="1536617810668">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3987462306" ref="index:music:contact"/>
@@ -11,7 +11,7 @@
     <file name="the-brown-album.css" crc="363964763" ref="the-brown-album"/>
     <file name="master_music--master.css" crc="431692814" ref="sugar:reason:the-brown-album:present:plants:get-high"/>
     <file name="get-high.css" crc="4055556186" ref="get-high"/>
-    <file name="contact.css" crc="4137339081" ref="contact"/>
+    <file name="contact.css" crc="337146353" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:plants:the-brown-album:present:sugar:reason:get-high:contact"/>
@@ -28,23 +28,23 @@
     <file name="touchswipe.js" crc="4066113679" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="481032604" ref="index:contact:music"/>
+    <file name="favicon.ico" crc="509376672" ref="index:contact:music"/>
     <file name="websitemasterlogobleumauvejpg-crop-u3299.jpg" crc="71511817" seo="true" ref="index:music:contact">
-      <caption webpage="present" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="extra" alt=""/>
+      <caption webpage="plants" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="extra" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="live-stream" alt=""/>
       <caption webpage="more" alt=""/>
       <caption webpage="sugar" alt=""/>
-      <caption webpage="plants" alt=""/>
-      <caption webpage="the-brown-album" alt=""/>
+      <caption webpage="present" alt=""/>
       <caption webpage="reason" alt=""/>
-      <caption webpage="live-stream" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="me" alt=""/>
       <caption webpage="news" alt=""/>
-      <caption webpage="music" alt=""/>
+      <caption webpage="the-brown-album" alt=""/>
       <caption webpage="flow" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
     <file name="loading.gif" crc="3815509949" ref="plants:the-brown-album:present:sugar:reason:get-high"/>
@@ -207,5 +207,5 @@
   <file name="sugar.html" crc="4045067586" seo="true" mt="1530911057151" redirect="true"/>
   <file name="reason.html" crc="4227552759" seo="true" mt="1530911057151" redirect="true"/>
   <file name="get-high.html" crc="4265555135" seo="true" mt="1530911057151" redirect="true"/>
-  <file name="contact.html" crc="4155315137" seo="true" mt="1531059428801" redirect="true"/>
+  <file name="contact.html" crc="3759637778" seo="true" mt="1536617797593" redirect="true"/>
 </manifest>
